@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Research
 excerpt: "research"
 tags: [cv, Jekyll, theme, responsive, blog, template]
 comments: true
