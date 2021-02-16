@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teaching
-excerpt: "teaching"
+title: Research
+excerpt: "research"
 tags: [cv, Jekyll, theme, responsive, blog, template]
 comments: true
 image: 
