@@ -21,7 +21,7 @@ image:
    }
 
    #columns .date {
-       float: left;
+       float: right;
        width: 160px;
    }
 
@@ -70,26 +70,26 @@ I obtained the Dutch Basic Teaching Qualification (UTQ/BKO) at the University of
     </div>
 </div>
 
-## Thesis supervision
+## Education
 <hr>
 
 <div id="columns">
     <div class="date column">
-        <b> April - June 2020 </b>
+        <b> Mar. 2020 - present </b>
     </div>
     <div class="description column">
-        <b>Hugh Mee Wong</b>, <font color="brown">Bachelor Artificial Intelligence</font>
+        <b>M.S. in Information Security, Korea University</b>, <font color="brown">Bachelor Artificial Intelligence</font>
         <br><i>Subject-Verb Number Agreement in a Dutch LSTM Language Model</i>
     </div>
 </div>
 
 <div id="columns">
     <div class="date column">
-        <b> April - June 2020 </b>
+        <b> Mar. 2015 - Feb. 2020 </b>
     </div>
     <div class="description column">
-        <b>Jeroen Taal</b>, <font color="brown">Bachelor Artificial Intelligence</font>
-        <br><i>Comparing encoding of number information in dense and sparse LSTMs</i>
+        <b>B.S. in Electrical Engineering, Korea University</b>, <font color="brown">Bachelor Artificial Intelligence</font>
+        <br><i>B.S. in Electrical Engineering, Korea University</i>
     </div>
 </div>
 
