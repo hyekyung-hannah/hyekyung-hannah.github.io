@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Dieuwke Hupkes
-  avatar: DHupkes.jpg
-  bio: "Research scientist at FAIR, scientific manager of the ELLIS Amsterdam unit, interested in structures in language"
-  email: d.hupkes@uva.nl
+  name: Hyekyung Han (Hannah)
+  avatar: me.jpg
+  bio: "MS student at Signal Processing and Advanced Intelligence (SPAI), Korea Uni. interested in signal processing, computer vision, deepfakes"
+  email: hhk3397@korea.ac.kr
   disqus-shortname: 
   google:
     plus: #username
@@ -38,11 +38,11 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: dieuwkehupkes
+  github: hyekyunghan
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin:
-  instagram: duo_polenotti
-  twitter: _dieuwke_
+  linkedin: hyekyung-han
+  instagram: hyekyung_loves_sweets
+  twitter: 
   xing: #username
   lastfm: #username
   tumblr: #username
