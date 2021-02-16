@@ -14,5 +14,5 @@ You can also find me on <a href="https://scholar.google.com/citations?user=tAtSM
 
 ## Conferences
 
-* HyeKyung Han, KangHoon Lee, Youngbae Jeon, Ji Won Yoon, "Comparison of various interpolation techniques to infer localization of audio files using ENF signals", International Conference on Software Security and Assurance (ICSSA 2020, Best Paper Award, accepted)
+* <strong>HyeKyung Han</strong>, KangHoon Lee, Youngbae Jeon, Ji Won Yoon, "Comparison of various interpolation techniques to infer localization of audio files using ENF signals", International Conference on Software Security and Assurance (ICSSA 2020, <strong>Best Paper Award</strong>, accepted)
 
