@@ -78,7 +78,7 @@ I obtained the Dutch Basic Teaching Qualification (UTQ/BKO) at the University of
         <b> Mar. 2020 - present </b>
     </div>
     <div class="description column">
-        <b>M.S. in Information Security, Korea University</b>
+        <b><font color="brown">M.S. in Information Security, Korea University</font></b>
         <br><i>Subject-Verb Number Agreement in a Dutch LSTM Language Model</i>
     </div>
 </div>
@@ -147,14 +147,14 @@ I've (guest)lectured in the following courses:
 
 ## Research Projects
 <hr>
-I have been a teaching assistant in the following courses:
+I have been working on the projects below:
 
 <div id="columns">
     <div class="date column">
         <b>
-        Oct-Dec 2017
-        <br><br><br><br><br>Sept-Oct 2016
-        <br><br><br><br><br>Feb-April 2016
+        Oct-Dec 2021
+        <br><br><br><br><br>Sept-Oct 2021
+        <br><br><br><br><br>Feb-April 2020
         <br> Oct-Dec 2016
         <br><br><br><br> Oct-Dec 2015
         <br><br><br><br><br>Feb-Apr 2014
