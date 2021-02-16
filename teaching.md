@@ -88,7 +88,7 @@ I obtained the Dutch Basic Teaching Qualification (UTQ/BKO) at the University of
         <b> Mar. 2015 - Feb. 2020 </b>
     </div>
     <div class="description column">
-        <b>B.S. in Electrical Engineering, Korea University</b>
+        <font color="brown">B.S. in Electrical Engineering, Korea University</font>
         <br><i>B.S. in Electrical Engineering, Korea University</i>
     </div>
 </div>
