@@ -12,7 +12,7 @@ image:
 
 
 
-### Special Interest in...
+### Research Interest
 
 Electrical Network Frequency
 
@@ -23,7 +23,7 @@ Side Channel Attack Analysis
 Covert Channel Analysis
 
 
-### Education:
+### Education
 
 M.S. in Information Security, Korea University, 2018-present
 
