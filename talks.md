@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Presentations
-excerpt: "Talks"
+title: Curriculum Vitae
+excerpt: "cv"
 tags: [Jekyll, theme, responsive, blog, template]
 comments: true
 image: 
@@ -10,87 +10,44 @@ image:
 
 {% include _toc.html %}
 
-## Upcoming
-
-* *February 11*, Compositionality decomposed: how do neural networks generalise? [*Woman@CL*](https://talks.cam.ac.uk/talk/index/157291), Cambridge (virtual talk).
-
-* *March 17*, Kunnen we kunstmatige intelligentie nog doorgronden? [Studium Generale](https://www.sg.uu.nl/sprekers/dieuwke-hupkes), Utrecht (virtual talk).
-
-* *August 2021*, TBA, *Keynote speaker at the workshop* [*Computational and experimental explanations in semantics and pragmatics*](https://www.jakubszymanik.com/CoSaQ/events/explanations-semantics), Utrecht.
-
-* TBA, *Keynote speaker at EurNLP*, Paris.
-
-### 2021
-
-* *February 5*, Compositionality decomposed: how about natural language? *Rijksuniversiteit Groningen*, Groningen (virtual talk).
-
-### 2020
-
-* *October 30*, Neural networks as explanatory models of language processing, *[ILCC Seminar](https://web.inf.ed.ac.uk/ilcc/news-events) at the University of Edinburgh*, Edinburgh (virtual talk)<br>
-[[<font color='blue'>abstract</font>](talks/ILCC_abstract.txt)]
 
 
-* *September 17*, Neural networks as explanatory models. AllenNLP, Seattle (virtual talk)
+### Special Interest in...
 
-### 2019
+Electrical Network Frequency
 
-* *November 4*, Syntax in neural language models: a case study, *Universiteit Utrecht*, Utrecht.<br>
-[[<font color='blue'>slides</font>](talks/UU15-11-2019.pdf)]
+Deepfake detection
 
-* *October 9* Subject verb agreement in neural language models -- how, when and where? *Johns Hopkins University*, Baltimore.  
-[[<font color='blue'>slides</font>](talks/JHU09-10-2019.pdf)]
+Side Channel Attack Analysis
 
-*  *October 1*, What do they learn? Neural networks, compositionality and interpretability, [*Computational Cognition workshop*](http://www.comco2019.com), Osnabruek.  
-[[<font color='blue'>slides</font>](talks/Osnabruek01-10-2019.pdf)]
-[[<font color='blue'>recording</font>](https://www.youtube.com/watch?time_continue=1&v=qspEr33ql3o)]
-
-* *September 3*. Guest speaker and panelist at the public event [*When fake looks all too real: the technology behind Deep Fake*](https://www.spui25.nl/spui25-en/events/events/2019/09/the-technology-behind-deep-fake.html), SPUI25, Amsterdam.  
-[[<font color='blue'>slides</font>](talks/DeepFake03-09-2019.pdf)]
-[[<font color='blue'>recording</font>](https://www.facebook.com/spui25/videos/vb.603406399729064/742682212852885/?type=2&theater)]
-
-* *June 18*. The typology of emergent languages.  [*Interaction and the Evolution of Linguistic Complexity*](https://www.lel.ed.ac.uk/cle/index.php/ielc2019), Edinburgh.  
-[[<font color='blue'>slides</font>](talks/IELC18-06-2019.pdf)]
-
-* *May 6*. The compositionality of neural networks: integrating symbolism and connectionism. 
-*CS&AI / SIKS workshop on analyzing and interpreting neural networks for NLP, 's-Hertogenbosch.*  
-[[<font color='blue'>slides</font>](talks/BlackboxNL18-5-6.pdf)]
-
-* *April 18*. The compositionality of neural networks: integrating symbolism and connectionism. 
-*Internal talk at Saarland University, Saarbrücken.*  
-[[<font color='blue'>slides</font>](talks/Saarbrucken18-4-2019.pdf)]
-
-* *March 14*. On neural networks and compositionality. 
-*Internal seminar at École normale supérieure, Paris.*  
-[[<font color='blue'>slides</font>](talks/ENS14-3-2019.pdf)]
-
-### 2018
-
-* *July 18, 2018*. Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure. [*IJCAI*](http://static.ijcai.org/2018-Program.html).  
-[[<font color='blue'>slides</font>](talks/IJCAI18-07-2018.pdf)]
-
-* *June 12, 2018*. Learning compositionally through attentive guidance. Internal seminar at the University of Copenhagen.  
-[[<font color='blue'>slides</font>](talks/Copenhagen12-06-2018.pdf)]
+Covert Channel Analysis
 
 
-### 2017
+### Education:
 
-* *May 9, 2017*. Processing hierarchical structure with RNNs. *Dagstuhl seminar* on Human-like neural-symbolic computing.  
-[[<font color='blue'>slides</font>](talks/Dagstuhl10-05-2017.pdf)]
+M.S. in Information Security, Korea University, 2018-present
 
-* *December 7, 2017*. The grammar of neural networks. *SMART workshop Grammars, Computation & Cognition*, Amsterdam.  
-[[<font color='blue'>slides</font>](talks/SMART06-05-2017.pdf)]
+B.S. in Electrical Engineering, Korea University , 2015-2019
 
-* December 15, 2017. Hierarchical compositionality in recurrent neural networks. *Internal seminar* at Rijksuniversiteit Groningen.  
-[[<font color='blue'>slides</font>](talks/Groningen15-12-2017.pdf)]
 
-### 2016 
+### Experience:
 
-* *May 25, 2016*. POS-tagging of Historical Dutch. [LREC](http://lrec2016.lrec-conf.org/en/conference-programme/accepted-papers/), Portoroz.
+2020 Korean Mathematical Olympiad (KMO), middle school division, gold medal
 
-* *November 22*, 2016. How may neural networks process hierarchical structure? Insights from recursive and recurrent networks learning arithmetics. [Logic Tea](http://events.illc.uva.nl/logic_tea/) at the University of Amsterdam.  
-[[<font color='blue'>slides</font>](talks/logic_tea_22-11-2016.pdf)]
+2020 Workshop on Side Channel Analysis 
 
-### 2015
+2019 Workshop on Side Channel Analysis 
 
-* *June 8, 2015*. Using Parallel Data to improve Part-of-Speech tagging of 17th century Dutch. *DH Benelux*, Antwerp.
+
+### Publication (Conference)
+
+Hyekyung Han, KangHoon Lee, Youngbae Jeon, Ji Won Yoon, "Comparison of various interpolation techniques to infer localization of audio files using ENF signals", International Conference on Software Security and Assurance (ICSSA 2020, Best Paper Award, accepted)
+
+
+
+
+
+
+
+
 
