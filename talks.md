@@ -27,16 +27,18 @@ Covert Channel Analysis
 
 M.S. in Information Security, Korea University, 2018-present
 
-B.S. in Electrical Engineering, Korea University , 2015-2019
+B.S. in Electrical Engineering, Korea University, 2015-2019
 
 
 ### Experience:
 
-2020 Korean Mathematical Olympiad (KMO), middle school division, gold medal
+Best Paper Award 2020 
 
-2020 Workshop on Side Channel Analysis 
+Workshop on Side Channel Analysis 2020
 
-2019 Workshop on Side Channel Analysis 
+Best Award 2019
+
+Hackerthon 2019
 
 
 ### Publication (Conference)
