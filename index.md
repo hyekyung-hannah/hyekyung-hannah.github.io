@@ -10,10 +10,8 @@ image:
 {% include _toc.html %}
 
 My name is Hyekyung Han.
-I am currently an MS. student at <a href="https://www.korea.ac.kr/" target="_blank">Korea University, Seoul</a>. 
+I am currently an MS. student at <a href="http://www.korea.ac.kr/mbshome/mbs/university/index.do" target="_blank">Korea University, Seoul</a>. Before that, I also did my Bachelor's degree in Electrical Engineering at Korea University.
 <br /><br />
-Before thath, I also did my Bachelor's degree in Electrical Engineering at Korea University.
-
 
 I studied artificial neural networks for natural language processing, with as main aim to understand what they may teach us about processing of structure.
 While artificial neural networks are of course far from the real brain, I hope that understanding the principles by which they can encode and process structure can teach us something that will lead to a better understanding of how language is processed by the human brain. 
@@ -32,11 +30,11 @@ Have a look at our <a href="https://www.instagram.com/duo_polenotti/" target="_b
 
 ## News
 
-- December 7, 2020 -- Today I started as a research scientist at FAIR Paris! Looking forward to this new adventure :).
+- December 7, 2021 -- Today I started as a research scientist at FAIR Paris! Looking forward to this new adventure :).
 
-- August 29, 2020 -- Jelle Zuidema and I were interviewed by Trouw, the resulting two page (!) [article](Trouw-29-08-2020-article.pdf) appeared today!
+- August 29, 2020 -- Our team won a prize
 
-- July 9, 2020 -- Check out this nice <a href="https://resources.illc.uva.nl/illc-blog/lightening-up-the-black-box/">blog post</a> that <a href="https://resources.illc.uva.nl/illc-blog/lightening-up-the-black-box/" target="_blank">Iris Proff</a> wrote about me and my research!
+- July 9, 2020 -- My first conference paper is accepted!
 
 - August 1, 2019 -- I joined <a href="https://signal.korea.ac.kr" target="_blank">Signal Processing and Advanced Intelligence Lab.</a> as a student intern.
  
