@@ -93,126 +93,10 @@ I obtained the Dutch Basic Teaching Qualification (UTQ/BKO) at the University of
     </div>
 </div>
 
-<div id="columns">
-    <div class="date column">
-        <b> April - August 2020 </b>
-    </div>
-    <div class="description column">
-        <b>Oskar van der Wal</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br><i>The Grammar of Emergent Languages</i>
-        <br> Co-supervision with Elia Bruni
-    </div>
 </div>
 
-<div id="columns">
-    <div class="date column">
-        <b> April - Now </b>
-    </div>
-    <div class="description column">
-        <b>Lewis O'Sullivan</b>, <font color="brown">Master Brain and Cognitive Science</font>
-        <br> Co-supervision with Willem Zuidema
-    </div>
-</div>
-
-<div id="columns">
-    <div class="date column">
-    <b> June 2019 - May 2020 </b>
-    </div>
-    <div class="description column">
-        <b>Oscar Ligthart</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br><i>Measuring Compositionality in Agent Emerged Languages</i>
-        <br> Co-supervision with Elia Bruni
-    </div>
-</div>
-
-<div id="columns">
-    <div class="date column">
-        <b>
-        June 2018 - Feb 2020
-        <br><br><br><br>
-        Jan - Aug 2019
-        <br><br><br><br>
-        Jan - Aug 2019
-        <br><br><br><br>
-        Jan - July 2019
-        <br><br><br><br>
-        Jan - Nov 2018
-        <br><br><br><br>
-        Jan - Oct 2018
-        <br><br><br><br><br>
-        Jan - Aug 2018
-        <br><br><br><br>
-        Jan - Aug 2018
-        <br><br><br><br>
-        Jan - July 2018
-        <br><br><br><br>
-        Jan - Aug 2018
-        <br><br><br><br>
-        Jan - Jun 2018
-        <br><br><br><br>
-        Spring 2017
-        <br><br>
-        </b>
-    </div>
-    <div class="description column">
-        <b>Jaap Jumelet</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br><i>  Interpreting Language Models</i>
-        <br> Co-supervision with Willem Zuidema
-        <br><br>
-        <b>Gautier Dagan</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br><i> Co-evolution of language and agent in referential games </i>
-        <br> Co-supervision with Elia Bruni
-        <br><br>
-        <b>Dennis Ulmer</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br><i> Recoding latent sentence representations </i>
-        <br> Co-supervision with Elia Bruni
-        <br><br>
-        <b>Diana Rodriguez Luna</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br><i> Language emregence in multi-agent referential games</i>
-        <br> Co-supervision with Elia Bruni
-        <br><br>
-        <b>Kris Korrel</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br><i> From sequence to attention</i>
-        <br> Co-supervision with Elia Bruni and Germ&#x00E1;n Kruszewski
-        <br><br>
-        <b>Sanne Bouwmeester</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br> <i>Analysing seq-to-seq models in goal-oriented dialogue: 
-        generalising to disfluencies</i>
-        <br> Co-supervision with Raquel Fernandez
-        <br><br>
-
-        <b>Krsto Prorokovi&#x00107;</b>, <font color="brown">Master of Logic</font>
-        <br><i> Learning to decide a formal language: a recurrent neural network approach</i>
-        <br> Co-supervision with Elia Bruni and Germ&#x00E1;n Kruszewski
-        <br><br>
-        <b>Anand Kumar Singh</b>, <font color="brown">Master Computational Intelligence</font>
-        <br><i> Pondering in artificial neural networks </i>
-        <br> Co-supervision with Elia Bruni and Germ&#x00E1;n Kruszewski
-        <br><br>
-
-        <b>Ujjwal Sharma</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br><i> Interpreting decision-making in interactive visual dialogue </i>
-        <br> Co-supervision with Elia Bruni
-        <br><br>
-
-        <b>Rezka Aufar Leonandya</b>, <font color="brown">Master Artificial Intelligence</font>
-        <br><i> Learning to follow instructions </i>
-        <br> Co-supervision with Elia Bruni and Germ&#x00E1;n Kruszewski
-        <br><br>
-
-        <b>Lucas Weber</b>, <font color="brown">Master Brain and Cognitive Science</font>
-        <br> <i> Continual learning in humans and neuroscience-inspired AI</i> 
-        <br> Co-supervision with Elia Bruni
-        <br><br>
-
-        <b>Philip Bouman</b>, <font color="brown">Bachelor Artificial Intelligence Thesis</font>
-        <br> <i>Modelling fonts with convolutional neural networks.</i> 
-        <br> Co-supervision with Jelle Zuidema
-        <br><br>
-    </div>
-</div>
-
-## Individual/group projects
+## Honors & Awards
+<hr>
 
 <div id="columns">
     <div class="date column">
@@ -232,39 +116,11 @@ I obtained the Dutch Basic Teaching Qualification (UTQ/BKO) at the University of
         <b> Contextual decomposition for attention-based models </b> 
         <br><i> Msc AI student Tom Kersten </i>
 
-        <br><br>
-        <b> Curriculum learning to improve compositionality </b> 
-        <br><i> Msc AI student Michael Neely </i>
-
-        <br><br>
-        <b> Syntactic awareness in language models: recurrence vs self-attention </b> 
-        <br><i> Msc AI students Sander Bos, Lorian Colthof, Bryan Guevara and Vivian van Oijen</i>
-
-        <br><br>
-        <b> Unsupervised grammar induction in emergent languages</b> 
-        <br><i> Msc AI students Silvan de Boer and Oskar van der Wal</i>
-
-        <br><br>
-        <b> On the realisation of compositionality in neural networks</b> 
-        <br><i> Msc AI students Joris Baan, Jana Leible, Mitja Nikolaus, David Rau, Verna Dankers, Snthosh Rajamanickam and Dennis Ulmer</i>
-
-        <br><br>
-        <b>Analysing subject-verb agreement with diagnostic classification</b>
-        <br><i> Msc AI and Logic students Mario Giulianelli, Jack Harding and Florian Mohnert</i> 
-
-        <br><br>
-        <b>What do language models encode?</b>
-        <br><i> Msc AI student Jaap Jumelet </i>
-
-        <br><br>
-        <b> Learning compositionality in neural networks</b> 
-        <br><i> Master of Logic students Federico Schiaffino, Haukur P&#x00E1;l Jonnson, Max Rapp, Flavio Tisi and Yuan-Ho Yao</i>
-
-        <br><br>
-    </div>
+        
 </div>
 
 ## (Guest) lectures
+<hr>
 
 I've (guest)lectured in the following courses:
 
@@ -289,7 +145,7 @@ I've (guest)lectured in the following courses:
     </div>
 </div>
 
-## Teaching assistant
+## Research Projects
 <hr>
 I have been a teaching assistant in the following courses:
 
