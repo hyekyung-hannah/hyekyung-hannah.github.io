@@ -78,7 +78,7 @@ I obtained the Dutch Basic Teaching Qualification (UTQ/BKO) at the University of
         <b> Mar. 2020 - present </b>
     </div>
     <div class="description column">
-        <b>M.S. in Information Security, Korea University</b>, <font color="brown">Bachelor Artificial Intelligence</font>
+        <b>M.S. in Information Security, Korea University</b>
         <br><i>Subject-Verb Number Agreement in a Dutch LSTM Language Model</i>
     </div>
 </div>
@@ -88,7 +88,7 @@ I obtained the Dutch Basic Teaching Qualification (UTQ/BKO) at the University of
         <b> Mar. 2015 - Feb. 2020 </b>
     </div>
     <div class="description column">
-        <b>B.S. in Electrical Engineering, Korea University</b>, <font color="brown">Bachelor Artificial Intelligence</font>
+        <b>B.S. in Electrical Engineering, Korea University</b>
         <br><i>B.S. in Electrical Engineering, Korea University</i>
     </div>
 </div>
