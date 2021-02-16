@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Curriculum Vitae
-excerpt: "cv"
+title: Experience
+excerpt: "Experience"
 tags: [Jekyll, theme, responsive, blog, template]
 comments: true
 image: 
@@ -23,11 +23,7 @@ image:
 * Covert Channel Analysis
 
 
-### Education
 
-* M.S. in Information Security, Korea University, 2018-present
-
-* B.S. in Electrical Engineering, Korea University, 2015-2019
 
 
 ### Experience:
